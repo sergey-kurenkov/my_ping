@@ -1,0 +1,5 @@
+.idea/
+tcp_ping
+udp_ping
+udp_ping.linux.amd64
+tcp_ping.linux.amd64
